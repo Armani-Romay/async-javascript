@@ -142,7 +142,7 @@ table {
 body {
     display: flex;
     flex-direction: column;
-    background-image: url(./red-trees.jpeg);
+    background-image: url(./photo-1618588507085-c79565432917.jpg);
 }
 
 form {
@@ -188,6 +188,7 @@ main {
 
 #leftSide {
     display: flex;
+    columns: auto;
 }
 
 #temperature {
